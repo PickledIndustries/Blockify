@@ -1,0 +1,2 @@
+# Blockify
+Ad Blocker
